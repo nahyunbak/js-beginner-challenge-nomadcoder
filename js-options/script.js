@@ -1,4 +1,4 @@
-//초반에 const 상수 선언하기
+
 const select = document.querySelector("select"),
   KR= document.querySelector(".korea"),
   JP= document.querySelector(".japan"),
